@@ -1,6 +1,6 @@
 package codesignal.the_core.at_the_crossroads;
 
-public class Knapsack_Light {
+public class KnapsackLight {
 
     /**
      * You found two items in a treasure chest!
